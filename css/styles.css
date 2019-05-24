@@ -1,0 +1,16 @@
+h1
+{
+  font-size: 50px;
+  font-style: bold;
+  color: blue;
+  text-decoration: line-through;
+  text-align: center;
+}
+h2
+{
+  font-size: 20px;
+  font-style: italic;
+  color: lightblue;
+  text-decoration: line-through;
+  text-align: center;
+}
